@@ -1,6 +1,6 @@
 # FDS-2023.1
 
-### Projeto na linguagem Python no Framework Django, em consiste em criar um mix de rede social, para alunos do cesar, que terá um Forum, para gerar debates entre os alunos. ###
+### Projeto na linguagem Python no Framework Django, em consiste em criar uma rede social, para alunos do cesar, onde alunos da cesar school poderão debater por meio de texto e voz suas ideias academicas e compartilhar ela com os alunos da Cesar###
 
 ## DESENVOLVEDORES ##
 
