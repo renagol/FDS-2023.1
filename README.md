@@ -6,8 +6,6 @@
 
 * ANTONIO CABRAL
 * GABRIEL CORREIA
-* JOÃO PEDRO BATISTA
-* JOÃO PEDRO NOBREGA
 * VINICIUS DE SOUZA
 
 Link do nosso  projeto no Jira Software: https://cesarcommunity.atlassian.net/jira/software/projects/CESAR/boards/2
