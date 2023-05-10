@@ -5,7 +5,6 @@
 ## DESENVOLVEDORES ##
 
 * ANTONIO CABRAL
-* GABRIEL CORREIA
 * VINICIUS DE SOUZA
 
 Link do nosso  projeto no Jira Software: https://cesarcommunity.atlassian.net/jira/software/projects/CESAR/boards/2
