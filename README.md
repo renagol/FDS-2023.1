@@ -9,7 +9,7 @@
 * JOÃO SAMPAIO
 * GABRIEL PONTES
 * JOÃO PEDRO NOBREGA
-* JOÃO PEDRO
+* JOÃO PEDRO BATISTA
 
 Link do nosso  projeto no Jira Software: https://cesarcommunity.atlassian.net/jira/software/projects/CESAR/boards/2
 
